@@ -1,0 +1,6 @@
+module Baz {
+    @topic
+    struct Bar {
+        long x;
+    };
+};

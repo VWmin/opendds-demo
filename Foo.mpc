@@ -1,0 +1,16 @@
+project: dcps_java {
+    idlflags      += -Wb,stub_export_include=Foo_Export.h \
+                     -Wb,stub_export_macro=Foo_Export
+    dcps_ts_flags += -Wb,export_macro=Foo_Export
+    idl2jniflags  += -Wb,stub_export_include=Foo_Export.h \
+                     -Wb,stub_export_macro=Foo_Export
+    dynamicflags  += FOO_BUILD_DLL
+
+    specific {
+        jarname = DDS_Foo_types
+    }
+    
+    TypeSupport_Files {
+        Foo.idl
+    }
+}

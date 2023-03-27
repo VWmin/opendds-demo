@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{B1F27843-FECA-1BAD-409D-8A630000002E}</UniqueIdentifier>
+      <Extensions>cpp;cxx;cc;c;C</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{06319535-FECA-1BAD-409D-8A630000002E}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hh</Extensions>
+    </Filter>
+    <Filter Include="Build Files">
+      <UniqueIdentifier>{A1909F1C-FECA-1BAD-409D-8A630000002E}</UniqueIdentifier>
+      <Extensions>mpc;mpb;mwc</Extensions>
+    </Filter>
+    <Filter Include="Java Files">
+      <UniqueIdentifier>{0490FCE5-FECA-1BAD-409D-8A630000002E}</UniqueIdentifier>
+      <Extensions>java</Extensions>
+    </Filter>
+    <Filter Include="Idl2jni And Idl Files">
+      <UniqueIdentifier>{A56854F0-FECA-1BAD-409D-8A630000002E}</UniqueIdentifier>
+      <Extensions>idl</Extensions>
+    </Filter>
+    <Filter Include="Idl2jni And Idl And Typesupport Files">
+      <UniqueIdentifier>{12DBF21B-FECA-1BAD-409D-8A630000002E}</UniqueIdentifier>
+      <Extensions>idl</Extensions>
+    </Filter>
+    <Filter Include="Inline Files">
+      <UniqueIdentifier>{763028EF-FECA-1BAD-409D-8A630000002E}</UniqueIdentifier>
+      <Extensions>i;ipp;inl</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="FooC.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="FooJC.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="FooS.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="FooTypeSupportC.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="FooTypeSupportImpl.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="FooTypeSupportJC.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="FooTypeSupportS.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Foo_Export.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="FooC.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="FooJC.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="FooS.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="FooTypeSupportC.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="FooTypeSupportImpl.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="FooTypeSupportJC.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="FooTypeSupportS.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Foo.mpc">
+      <Filter>Build Files</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="Baz\_BarDataReaderLocalBase.java">
+      <Filter>Java Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="Baz\_BarDataReaderTAOPeer.java">
+      <Filter>Java Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="Baz\_BarDataWriterLocalBase.java">
+      <Filter>Java Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="Baz\_BarDataWriterTAOPeer.java">
+      <Filter>Java Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="Baz\_BarTypeSupportLocalBase.java">
+      <Filter>Java Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="Baz\_BarTypeSupportTAOPeer.java">
+      <Filter>Java Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="Baz\Bar.java">
+      <Filter>Java Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="Baz\BarDataReader.java">
+      <Filter>Java Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="Baz\BarDataReaderHelper.java">
+      <Filter>Java Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="Baz\BarDataReaderHolder.java">
+      <Filter>Java Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="Baz\BarDataReaderOperations.java">
+      <Filter>Java Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="Baz\BarDataWriter.java">
+      <Filter>Java Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="Baz\BarDataWriterHelper.java">
+      <Filter>Java Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="Baz\BarDataWriterHolder.java">
+      <Filter>Java Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="Baz\BarDataWriterOperations.java">
+      <Filter>Java Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="Baz\BarHelper.java">
+      <Filter>Java Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="Baz\BarHolder.java">
+      <Filter>Java Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="Baz\BarSeqHelper.java">
+      <Filter>Java Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="Baz\BarSeqHolder.java">
+      <Filter>Java Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="Baz\BarTypeSupport.java">
+      <Filter>Java Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="Baz\BarTypeSupportHelper.java">
+      <Filter>Java Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="Baz\BarTypeSupportHolder.java">
+      <Filter>Java Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="Baz\BarTypeSupportImpl.java">
+      <Filter>Java Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="Baz\BarTypeSupportOperations.java">
+      <Filter>Java Files</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="FooTypeSupport.idl">
+      <Filter>Idl2jni And Idl Files</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="Foo.idl">
+      <Filter>Idl2jni And Idl And Typesupport Files</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="FooC.inl">
+      <Filter>Inline Files</Filter>
+    </None>
+    <None Include="FooTypeSupportC.inl">
+      <Filter>Inline Files</Filter>
+    </None>
+  </ItemGroup>
+</Project>

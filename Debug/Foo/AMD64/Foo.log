@@ -1,0 +1,41 @@
+﻿  Invoking "D:\OpenDDS-3.23.1\bin\idl2jni and "D:\OpenDDS-3.23.1\ACE_wrappers\bin\tao_idl" and D:\OpenDDS-3.23.1\bin\opendds_idl on Foo.idl"
+  tao-idli_G1qFZP.cpp
+  tao-idli_TbaTSR.cpp
+  tao-idli_liJgOV.cpp
+  Invoking "perl on Baz\Bar.java"
+  Invoking "perl on Baz\BarHelper.java"
+  Invoking "perl on Baz\BarHolder.java"
+  Invoking "D:\OpenDDS-3.23.1\bin\idl2jni and "D:\OpenDDS-3.23.1\ACE_wrappers\bin\tao_idl" on FooTypeSupport.idl"
+  tao-idli_15oZjE.cpp
+  tao-idli_o28OCm.cpp
+  Invoking "perl on Baz\_BarDataReaderLocalBase.java"
+  Invoking "perl on Baz\_BarDataReaderTAOPeer.java"
+  Invoking "perl on Baz\_BarDataWriterLocalBase.java"
+  Invoking "perl on Baz\_BarDataWriterTAOPeer.java"
+  Invoking "perl on Baz\_BarTypeSupportLocalBase.java"
+  Invoking "perl on Baz\_BarTypeSupportTAOPeer.java"
+  Invoking "perl on Baz\BarTypeSupportImpl.java"
+  Invoking "perl on Baz\BarDataReader.java"
+  Invoking "perl on Baz\BarDataReaderHelper.java"
+  Invoking "perl on Baz\BarDataReaderHolder.java"
+  Invoking "perl on Baz\BarDataReaderOperations.java"
+  Invoking "perl on Baz\BarDataWriter.java"
+  Invoking "perl on Baz\BarDataWriterHelper.java"
+  Invoking "perl on Baz\BarDataWriterHolder.java"
+  Invoking "perl on Baz\BarDataWriterOperations.java"
+  Invoking "perl on Baz\BarSeqHelper.java"
+  Invoking "perl on Baz\BarSeqHolder.java"
+  Invoking "perl on Baz\BarTypeSupport.java"
+  Invoking "perl on Baz\BarTypeSupportHelper.java"
+  Invoking "perl on Baz\BarTypeSupportHolder.java"
+  Invoking "perl on Baz\BarTypeSupportOperations.java"
+  FooC.cpp
+  FooJC.cpp
+  FooS.cpp
+  FooTypeSupportC.cpp
+  FooTypeSupportImpl.cpp
+  FooTypeSupportJC.cpp
+  FooTypeSupportS.cpp
+  正在生成代码...
+    正在创建库 .\Food.lib 和对象 .\Food.exp
+  Foo.vcxproj -> D:\java\openddsapp\demo\Food.dll

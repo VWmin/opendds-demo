@@ -1,0 +1,21 @@
+﻿  Invoking "D:\OpenDDS-3.23.1\bin\idl2jni and "D:\OpenDDS-3.23.1\ACE_wrappers\bin\tao_idl" and D:\OpenDDS-3.23.1\bin\opendds_idl on Foo.idl"
+  tao-idli_fBhGZF.cpp
+  tao-idli_KCE33F.cpp
+  tao-idli_XSivwg.cpp
+  Invoking "D:\OpenDDS-3.23.1\bin\idl2jni and "D:\OpenDDS-3.23.1\ACE_wrappers\bin\tao_idl" on FooTypeSupport.idl"
+  tao-idli_smFnmr.cpp
+  tao-idli_hFFRID.cpp
+  Invoking "perl on Baz\BarTypeSupportImpl.java"
+  FooC.cpp
+  FooJC.cpp
+  FooS.cpp
+  FooTypeSupportC.cpp
+  FooTypeSupportImpl.cpp
+  FooTypeSupportJC.cpp
+  FooTypeSupportS.cpp
+    正在创建库 .\Foo.lib 和对象 .\Foo.exp
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 4361 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  Foo.vcxproj -> D:\java\openddsapp\demo\Foo.dll

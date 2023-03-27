@@ -1,0 +1,58 @@
+^D:\JAVA\OPENDDSAPP\DEMO\BAZ\_BARDATAREADERLOCALBASE.JAVA
+cmd /c "perl D:\OpenDDS-3.23.1/java/build_scripts/javac_wrapper.pl -sourcepath . -d classes -classpath . -implicit:none -classpath D:\OpenDDS-3.23.1/lib/i2jrt.jar -classpath D:\OpenDDS-3.23.1/lib/OpenDDS_DCPS.jar "Baz\_BarDataReaderLocalBase.java""
+^D:\JAVA\OPENDDSAPP\DEMO\BAZ\_BARDATAREADERTAOPEER.JAVA
+cmd /c "perl D:\OpenDDS-3.23.1/java/build_scripts/javac_wrapper.pl -sourcepath . -d classes -classpath . -implicit:none -classpath D:\OpenDDS-3.23.1/lib/i2jrt.jar -classpath D:\OpenDDS-3.23.1/lib/OpenDDS_DCPS.jar "Baz\_BarDataReaderTAOPeer.java""
+^D:\JAVA\OPENDDSAPP\DEMO\BAZ\_BARDATAWRITERLOCALBASE.JAVA
+cmd /c "perl D:\OpenDDS-3.23.1/java/build_scripts/javac_wrapper.pl -sourcepath . -d classes -classpath . -implicit:none -classpath D:\OpenDDS-3.23.1/lib/i2jrt.jar -classpath D:\OpenDDS-3.23.1/lib/OpenDDS_DCPS.jar "Baz\_BarDataWriterLocalBase.java""
+^D:\JAVA\OPENDDSAPP\DEMO\BAZ\_BARDATAWRITERTAOPEER.JAVA
+cmd /c "perl D:\OpenDDS-3.23.1/java/build_scripts/javac_wrapper.pl -sourcepath . -d classes -classpath . -implicit:none -classpath D:\OpenDDS-3.23.1/lib/i2jrt.jar -classpath D:\OpenDDS-3.23.1/lib/OpenDDS_DCPS.jar "Baz\_BarDataWriterTAOPeer.java""
+^D:\JAVA\OPENDDSAPP\DEMO\BAZ\_BARTYPESUPPORTLOCALBASE.JAVA
+cmd /c "perl D:\OpenDDS-3.23.1/java/build_scripts/javac_wrapper.pl -sourcepath . -d classes -classpath . -implicit:none -classpath D:\OpenDDS-3.23.1/lib/i2jrt.jar -classpath D:\OpenDDS-3.23.1/lib/OpenDDS_DCPS.jar "Baz\_BarTypeSupportLocalBase.java""
+^D:\JAVA\OPENDDSAPP\DEMO\BAZ\_BARTYPESUPPORTTAOPEER.JAVA
+cmd /c "perl D:\OpenDDS-3.23.1/java/build_scripts/javac_wrapper.pl -sourcepath . -d classes -classpath . -implicit:none -classpath D:\OpenDDS-3.23.1/lib/i2jrt.jar -classpath D:\OpenDDS-3.23.1/lib/OpenDDS_DCPS.jar "Baz\_BarTypeSupportTAOPeer.java""
+^D:\JAVA\OPENDDSAPP\DEMO\BAZ\BAR.JAVA
+cmd /c "perl D:\OpenDDS-3.23.1/java/build_scripts/javac_wrapper.pl -sourcepath . -d classes -classpath . -implicit:none -classpath D:\OpenDDS-3.23.1/lib/i2jrt.jar -classpath D:\OpenDDS-3.23.1/lib/OpenDDS_DCPS.jar "Baz\Bar.java""
+^D:\JAVA\OPENDDSAPP\DEMO\BAZ\BARDATAREADER.JAVA
+cmd /c "perl D:\OpenDDS-3.23.1/java/build_scripts/javac_wrapper.pl -sourcepath . -d classes -classpath . -implicit:none -classpath D:\OpenDDS-3.23.1/lib/i2jrt.jar -classpath D:\OpenDDS-3.23.1/lib/OpenDDS_DCPS.jar "Baz\BarDataReader.java""
+^D:\JAVA\OPENDDSAPP\DEMO\BAZ\BARDATAREADERHELPER.JAVA
+cmd /c "perl D:\OpenDDS-3.23.1/java/build_scripts/javac_wrapper.pl -sourcepath . -d classes -classpath . -implicit:none -classpath D:\OpenDDS-3.23.1/lib/i2jrt.jar -classpath D:\OpenDDS-3.23.1/lib/OpenDDS_DCPS.jar "Baz\BarDataReaderHelper.java""
+^D:\JAVA\OPENDDSAPP\DEMO\BAZ\BARDATAREADERHOLDER.JAVA
+cmd /c "perl D:\OpenDDS-3.23.1/java/build_scripts/javac_wrapper.pl -sourcepath . -d classes -classpath . -implicit:none -classpath D:\OpenDDS-3.23.1/lib/i2jrt.jar -classpath D:\OpenDDS-3.23.1/lib/OpenDDS_DCPS.jar "Baz\BarDataReaderHolder.java""
+^D:\JAVA\OPENDDSAPP\DEMO\BAZ\BARDATAREADEROPERATIONS.JAVA
+cmd /c "perl D:\OpenDDS-3.23.1/java/build_scripts/javac_wrapper.pl -sourcepath . -d classes -classpath . -implicit:none -classpath D:\OpenDDS-3.23.1/lib/i2jrt.jar -classpath D:\OpenDDS-3.23.1/lib/OpenDDS_DCPS.jar "Baz\BarDataReaderOperations.java""
+^D:\JAVA\OPENDDSAPP\DEMO\BAZ\BARDATAWRITER.JAVA
+cmd /c "perl D:\OpenDDS-3.23.1/java/build_scripts/javac_wrapper.pl -sourcepath . -d classes -classpath . -implicit:none -classpath D:\OpenDDS-3.23.1/lib/i2jrt.jar -classpath D:\OpenDDS-3.23.1/lib/OpenDDS_DCPS.jar "Baz\BarDataWriter.java""
+^D:\JAVA\OPENDDSAPP\DEMO\BAZ\BARDATAWRITERHELPER.JAVA
+cmd /c "perl D:\OpenDDS-3.23.1/java/build_scripts/javac_wrapper.pl -sourcepath . -d classes -classpath . -implicit:none -classpath D:\OpenDDS-3.23.1/lib/i2jrt.jar -classpath D:\OpenDDS-3.23.1/lib/OpenDDS_DCPS.jar "Baz\BarDataWriterHelper.java""
+^D:\JAVA\OPENDDSAPP\DEMO\BAZ\BARDATAWRITERHOLDER.JAVA
+cmd /c "perl D:\OpenDDS-3.23.1/java/build_scripts/javac_wrapper.pl -sourcepath . -d classes -classpath . -implicit:none -classpath D:\OpenDDS-3.23.1/lib/i2jrt.jar -classpath D:\OpenDDS-3.23.1/lib/OpenDDS_DCPS.jar "Baz\BarDataWriterHolder.java""
+^D:\JAVA\OPENDDSAPP\DEMO\BAZ\BARDATAWRITEROPERATIONS.JAVA
+cmd /c "perl D:\OpenDDS-3.23.1/java/build_scripts/javac_wrapper.pl -sourcepath . -d classes -classpath . -implicit:none -classpath D:\OpenDDS-3.23.1/lib/i2jrt.jar -classpath D:\OpenDDS-3.23.1/lib/OpenDDS_DCPS.jar "Baz\BarDataWriterOperations.java""
+^D:\JAVA\OPENDDSAPP\DEMO\BAZ\BARHELPER.JAVA
+cmd /c "perl D:\OpenDDS-3.23.1/java/build_scripts/javac_wrapper.pl -sourcepath . -d classes -classpath . -implicit:none -classpath D:\OpenDDS-3.23.1/lib/i2jrt.jar -classpath D:\OpenDDS-3.23.1/lib/OpenDDS_DCPS.jar "Baz\BarHelper.java""
+^D:\JAVA\OPENDDSAPP\DEMO\BAZ\BARHOLDER.JAVA
+cmd /c "perl D:\OpenDDS-3.23.1/java/build_scripts/javac_wrapper.pl -sourcepath . -d classes -classpath . -implicit:none -classpath D:\OpenDDS-3.23.1/lib/i2jrt.jar -classpath D:\OpenDDS-3.23.1/lib/OpenDDS_DCPS.jar "Baz\BarHolder.java""
+^D:\JAVA\OPENDDSAPP\DEMO\BAZ\BARSEQHELPER.JAVA
+cmd /c "perl D:\OpenDDS-3.23.1/java/build_scripts/javac_wrapper.pl -sourcepath . -d classes -classpath . -implicit:none -classpath D:\OpenDDS-3.23.1/lib/i2jrt.jar -classpath D:\OpenDDS-3.23.1/lib/OpenDDS_DCPS.jar "Baz\BarSeqHelper.java""
+^D:\JAVA\OPENDDSAPP\DEMO\BAZ\BARSEQHOLDER.JAVA
+cmd /c "perl D:\OpenDDS-3.23.1/java/build_scripts/javac_wrapper.pl -sourcepath . -d classes -classpath . -implicit:none -classpath D:\OpenDDS-3.23.1/lib/i2jrt.jar -classpath D:\OpenDDS-3.23.1/lib/OpenDDS_DCPS.jar "Baz\BarSeqHolder.java""
+^D:\JAVA\OPENDDSAPP\DEMO\BAZ\BARTYPESUPPORT.JAVA
+cmd /c "perl D:\OpenDDS-3.23.1/java/build_scripts/javac_wrapper.pl -sourcepath . -d classes -classpath . -implicit:none -classpath D:\OpenDDS-3.23.1/lib/i2jrt.jar -classpath D:\OpenDDS-3.23.1/lib/OpenDDS_DCPS.jar "Baz\BarTypeSupport.java""
+^D:\JAVA\OPENDDSAPP\DEMO\BAZ\BARTYPESUPPORTHELPER.JAVA
+cmd /c "perl D:\OpenDDS-3.23.1/java/build_scripts/javac_wrapper.pl -sourcepath . -d classes -classpath . -implicit:none -classpath D:\OpenDDS-3.23.1/lib/i2jrt.jar -classpath D:\OpenDDS-3.23.1/lib/OpenDDS_DCPS.jar "Baz\BarTypeSupportHelper.java""
+^D:\JAVA\OPENDDSAPP\DEMO\BAZ\BARTYPESUPPORTHOLDER.JAVA
+cmd /c "perl D:\OpenDDS-3.23.1/java/build_scripts/javac_wrapper.pl -sourcepath . -d classes -classpath . -implicit:none -classpath D:\OpenDDS-3.23.1/lib/i2jrt.jar -classpath D:\OpenDDS-3.23.1/lib/OpenDDS_DCPS.jar "Baz\BarTypeSupportHolder.java""
+^D:\JAVA\OPENDDSAPP\DEMO\BAZ\BARTYPESUPPORTIMPL.JAVA
+cmd /c "perl D:\OpenDDS-3.23.1/java/build_scripts/javac_wrapper.pl -sourcepath . -d classes -classpath . -implicit:none -classpath D:\OpenDDS-3.23.1/lib/i2jrt.jar -classpath D:\OpenDDS-3.23.1/lib/OpenDDS_DCPS.jar "Baz\BarTypeSupportImpl.java""
+^D:\JAVA\OPENDDSAPP\DEMO\BAZ\BARTYPESUPPORTOPERATIONS.JAVA
+cmd /c "perl D:\OpenDDS-3.23.1/java/build_scripts/javac_wrapper.pl -sourcepath . -d classes -classpath . -implicit:none -classpath D:\OpenDDS-3.23.1/lib/i2jrt.jar -classpath D:\OpenDDS-3.23.1/lib/OpenDDS_DCPS.jar "Baz\BarTypeSupportOperations.java""
+^D:\JAVA\OPENDDSAPP\DEMO\FOOTYPESUPPORT.IDL
+setlocal
+PATH=%PATH%;D:\OpenDDS-3.23.1\ACE_wrappers\lib;D:\OpenDDS-3.23.1\ACE_wrappers\lib
+cmd /c "D:\OpenDDS-3.23.1\bin\idl2jni -Wb,native_lib_name=Foo -SS -ID:\OpenDDS-3.23.1 -ID:\OpenDDS-3.23.1\ACE_wrappers\TAO -Wb,stub_export_include=Foo_Export.h -Wb,stub_export_macro=Foo_Export "FooTypeSupport.idl" && cmd /c ""D:\OpenDDS-3.23.1\ACE_wrappers\bin\tao_idl" -Wb,pre_include=ace/pre.h -Wb,post_include=ace/post.h -I"D:\OpenDDS-3.23.1\ACE_wrappers\TAO" --idl-version 4 --unknown-annotations ignore -as -Sa -St -ID:\OpenDDS-3.23.1 -Wb,stub_export_include=Foo_Export.h -Wb,stub_export_macro=Foo_Export "FooTypeSupport.idl""
+endlocal
+^D:\JAVA\OPENDDSAPP\DEMO\FOO.IDL
+setlocal
+PATH=%PATH%;D:\OpenDDS-3.23.1\ACE_wrappers\lib;D:\OpenDDS-3.23.1\ACE_wrappers\lib;D:\OpenDDS-3.23.1\ACE_wrappers\lib
+cmd /c "D:\OpenDDS-3.23.1\bin\idl2jni -Wb,native_lib_name=Foo -SS -ID:\OpenDDS-3.23.1 -ID:\OpenDDS-3.23.1\ACE_wrappers\TAO -Wb,stub_export_include=Foo_Export.h -Wb,stub_export_macro=Foo_Export "Foo.idl" && cmd /c ""D:\OpenDDS-3.23.1\ACE_wrappers\bin\tao_idl" -Wb,pre_include=ace/pre.h -Wb,post_include=ace/post.h -I"D:\OpenDDS-3.23.1\ACE_wrappers\TAO" --idl-version 4 --unknown-annotations ignore -as -Sa -St -ID:\OpenDDS-3.23.1 -Wb,stub_export_include=Foo_Export.h -Wb,stub_export_macro=Foo_Export "Foo.idl" && cmd /c "D:\OpenDDS-3.23.1\bin\opendds_idl -Sa -St -Wb,java -Wb,export_macro=Foo_Export "Foo.idl""
+endlocal
